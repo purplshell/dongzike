@@ -1,2 +1,6 @@
 dong zi ke
+<<<<<<< HEAD
 & simple
+=======
+HELLO WORLD ABC
+>>>>>>> feature1
